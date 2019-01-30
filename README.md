@@ -231,6 +231,7 @@
 * [Ruby School .us](https://t.me/rubyschool) — Чат для учеников руби-школы
 * [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
+* [Ruby Krasnodar](https://t.me/rubykrd) — Сообщество Ruby-программистов Краснодара
 * [Ruby Talks](https://t.me/ruby_talks) — Про Ruby
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
