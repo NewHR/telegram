@@ -80,6 +80,7 @@
 
 
 ## Вакансии и работа для IT & Digital специалистов
+* [Мир фриланса](https://t.me/freelancers_world) — Поиск работы и специалистов
 * [New.HR Vacancy](https://t.me/newhr) - Вакансии в IT & Digital для тех, кто не ищет работу
 * [Вакансии и резюме из Digital](https://t.me/seohr) — Вакансии и резюме из Digital
 * [Digital Job](https://t.me/digitaljob_ch) — Вакансии в индустрии Digital
