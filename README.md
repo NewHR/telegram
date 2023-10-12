@@ -175,6 +175,7 @@
 * [Webpack](https://t.me/webpack_ru) — Обсуждения webpack 1/2, лоадеров, плагинов и сборок
 * [Meteor.js](https://t.me/meteorjs_ru) — Чат про Meteor.js
 * [Feathers.js](https://t.me/featherjs) — Сообщество Feathers.js
+* [HTML • CSS • JS](https://t.me/russian_frontend) - Сообщество фронтенд разработчиков
 
 [Назад к оглавлению](#Оглавление)
 
